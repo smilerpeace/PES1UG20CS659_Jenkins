@@ -17,6 +17,7 @@ pipeline {
     
     stage ('Deploy') {
       steps {
+        ugiyguhoiug
         echo 'success';
       }
     }
